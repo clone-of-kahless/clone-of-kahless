@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Shea.
 
 - 🔭 I’m currently working on analyzing some Metacritic review data.
-- 🌱 I’m always learning a lot of things but mostly I am focused on data engineering and game design/development (C# and Unity).
+- 🌱 Lately, I've been focused on learning more about data engineering and hobby game design/development (C# and Unity).
 - 💬 I'm a data analyst (SQL, R, Python 🐍, Tableau). I know a fair amount about healthcare fraud 🏥.
 - ✨ Fun facts: I like to knit. 🧶 I love mushrooms. 🍄 My favorite TV show is Star Trek: Deep Space Nine. ⭐
 
