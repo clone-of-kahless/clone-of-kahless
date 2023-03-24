@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi, I'm Shea.
+
+- 🔭 I’m currently working on analyzing some Metacritic review data.
+- 🌱 I’m always learning a lot of things but mostly I am focused on data engineering and game design/development (C# and Unity).
+- 💬 I'm a data analyst (SQL, R, Python 🐍, Tableau). I know a fair amount about healthcare fraud 🏥.
+- ✨ Fun facts: I like to knit. 🧶 I love mushrooms. 🍄 My favorite TV show is Star Trek: Deep Space Nine. ⭐
 
 <!--
 **clone-of-kahless/clone-of-kahless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
