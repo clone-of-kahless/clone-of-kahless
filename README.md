@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on analyzing some Metacritic review data.
 - 🌱 Lately, I've been focused on learning more about data engineering and hobby game design/development (C# and Unity).
 - 💬 I'm a data analyst (SQL, R, Python 🐍, Tableau). I know a fair amount about healthcare fraud 🏥.
-- ✨ Fun facts: I like to knit. 🧶 I love mushrooms. 🍄 My favorite TV show is Star Trek: Deep Space Nine. 🌌
+- ✨ Fun facts: I like to knit. 🧶 I love mushrooms. 🍄 I'm a bit of a Trekkie. 🌌🖖
 
 <!--
 **clone-of-kahless/clone-of-kahless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
