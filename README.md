@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Shea.
 
 - 🔭 I’m currently working on analyzing some Metacritic review data.
-- 🌱 Lately, I've been focused on learning more about data engineering and hobby game design/development (C# and Unity).
+- 🌱 Lately, I've been focused on learning more about game design and development (C# and Unity).
 - 💬 I'm a data analyst (SQL, R, Python 🐍, Tableau). I know a fair amount about healthcare fraud 🏥.
 - ✨ Fun facts: I like to knit. 🧶 I love mushrooms. 🍄 I'm a bit of a Trekkie. 🌌🖖
+
+I'd be glad to collaborate on indie game development projects and analytics projects for a good cause (e.g. healthcare inequality, criminal justice reform, food security, climate activism, animal rights).
 
 <!--
 **clone-of-kahless/clone-of-kahless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
